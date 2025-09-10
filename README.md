@@ -1,4 +1,4 @@
-# Multitask Learning U-Net for Fracture Detection from Optical and SAR Data
+# Multitask Learning U-Net for Optical and SAR Data
 ## Requirements
 1. skimage
 2. tensorflow
